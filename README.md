@@ -174,7 +174,6 @@ Description            | Keys
 - [x] Alfred supports
 - [x] Download manager
 - [x] Wechat QR code login
-- [ ] Weibo QR code login
 - [ ] Remove express
 - [ ] Resize window（New UI）
 
